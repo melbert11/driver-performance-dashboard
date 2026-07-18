@@ -122,9 +122,3 @@ REDIS_PORT=6379
 - **Engineered columns:** `delays_minutes, behavioral_problems, violations_count, accidents_count, rating`
 
 ---
-
-## Metabase Dashboard
-- URL: `http://localhost:3001`
-- Public link: `http://localhost:3001/public/dashboard/7d726135-b929-49e6-9f0d-6ba2d6584108`
-
----
