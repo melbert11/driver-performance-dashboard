@@ -1,0 +1,30 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local databases
+*.sqlite
+*.sqlite3
+*.db
+
+# Generated dependencies and build output
+.venv/
+**/node_modules/
+**/vendor/
+**/.next/
+**/build/
+**/dist/
+
+# Notebook autosaves and local editor files
+**/.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+
+# Accidental local command-output artifact
+backend-laravel/')->avg('rating');
